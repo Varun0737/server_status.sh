@@ -1,4 +1,17 @@
 # server_status.sh
+Getting Started
+Clone the repository
+
+git clone https://github.com/AMM48/devops-lab.git
+cd server-performance-stats
+Make the script executable
+
+chmod +x server-stats.sh
+Execute the script
+
+./server-stats.sh
+
+
 shell commands to know about server status
 Checked CPU usage
 
@@ -27,3 +40,8 @@ Listed all users currently logged into the system.
 project url:
 
 https://roadmap.sh/projects/server-stats
+
+A bash script to analyse basic server performance stats.
+
+
+
