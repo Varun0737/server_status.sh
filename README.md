@@ -2,8 +2,8 @@
 Getting Started
 Clone the repository
 
-git clone https://github.com/AMM48/devops-lab.git
-cd server-performance-stats
+git clone (https://github.com/Varun0737/server_status.sh)
+cd server-status
 Make the script executable
 
 chmod +x server-stats.sh
